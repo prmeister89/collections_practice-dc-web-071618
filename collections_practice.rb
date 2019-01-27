@@ -1,5 +1,5 @@
 sort_array_asc(array) {
-  array.sort d0 |a,b|
+  array.sort do |a,b|
     a <=> b
   end
 }
