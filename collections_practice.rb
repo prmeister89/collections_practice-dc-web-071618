@@ -1,3 +1,3 @@
 sort_array_asc(array) {
-  array.sort
+  array.sort d0 |a,b|
 }
